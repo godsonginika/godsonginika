@@ -58,8 +58,7 @@ Here are some ideas to get you started:
 
 <hr/>
 <h1 align="center">
-  💻 Tech Stack 
-  <img src="https://raw.githubusercontent.com/godsonginika/godsonginika/main/idea-merry.gif" width="30" />
+  💻 Tech Stack
 </h1>
 
 <p align="center">
@@ -88,3 +87,59 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://i.imgur.com/P3JCd4l.gif" width="500" height="290">
 </p>
+
+
+</hr>
+
+## 🚀 Projects
+
+### 🧠 Machine Learning
+
+- **[House Price Prediction](https://github.com/your-username/house-price-prediction)**  
+  A regression model using Scikit-learn and SHAP to predict house prices.  
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SHAP-FF5F00?style=flat-square&logoColor=white"/>
+  </p>
+
+- **[Spam Classifier](https://github.com/your-username/spam-classifier)**  
+  A natural language processing project to classify spam emails.  
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/NLTK-3C9D9B?style=flat-square&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+  </p>
+
+---
+
+### 📊 Data Analysis
+
+- **[Sales Data Dashboard](https://github.com/your-username/sales-dashboard)**  
+  Interactive dashboard built from Excel data using pandas and matplotlib.  
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white"/>
+  </p>
+
+---
+
+### 🛠 .NET / C# Projects
+
+- **[Device Management API](https://github.com/your-username/device-management-api)**  
+  Backend API built using ASP.NET Core and Entity Framework.  
+  <p>
+    <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
+    <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+    <img src="https://img.shields.io/badge/EF%20Core-512BD4?style=flat-square&logo=.net&logoColor=white"/>
+  </p>
+
+- **[Library Management System](https://github.com/your-username/library-system)**  
+  Desktop application using Windows Forms and SQL Server.  
+  <p>
+    <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white"/>
+  </p>
+
