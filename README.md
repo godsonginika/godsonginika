@@ -64,7 +64,7 @@
 
 ## 🚀 Projects
 <h2 align="center">
-  <img src="https://github.com/posi-olomo/posi-olomo/blob/main/assets/rocket.gif?raw=true" width="40px" />
+  <img src="https://i.imgur.com/UO6ZaaZ.gif" width="40px" />
   Projects
 </h2>
 
