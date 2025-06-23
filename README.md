@@ -65,9 +65,10 @@
 ## 🚀 Projects
 
 <h2 align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/rocket.gif" width="30" />
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="40" style="margin-right: 10px;" />
   Projects
 </h2>
+
 
 
 
