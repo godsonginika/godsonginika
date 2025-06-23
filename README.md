@@ -65,9 +65,10 @@
 ## 🚀 Projects
 
 <h2 align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="40" style="margin-right: 10px;" />
+  <img src="https://media.giphy.com/media/2fC9cI1Uj1Z5e/giphy.gif" width="40" />
   Projects
 </h2>
+
 
 
 
