@@ -65,7 +65,7 @@
 ## 🚀 Projects
 
 <h2 align="center">
-  <img src="https://media.giphy.com/media/2fC9cI1Uj1Z5e/giphy.gif" width="40" />
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="30px" />
   Projects
 </h2>
 
