@@ -85,13 +85,19 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/P3JCd4l.gif" width="500" height="290">
+  <img src="https://i.imgur.com/BCpZPFT.mp4" width="500" height="290">
 </p>
 
 
 </hr>
 
 ## 🚀 Projects
+
+<h2 align="left">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/rocket.gif" width="30" />
+  Projects
+</h2>
+
 
 ### 🧠 Machine Learning
 
