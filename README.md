@@ -58,9 +58,8 @@
 <p align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="500" height="290">
 </p>
+<hr/>
 
-
-</hr>
 
 
 <h1 align="center">
@@ -68,12 +67,9 @@
   <img src="https://i.imgur.com/V2Gdteo.gif" width="40px" />
 </h1>
 
-
-
-
-
-
-### 🧠 Machine Learning
+<h3>
+  🧠 Machine Learning
+</h3>
 
 - **[House Price Prediction](https://github.com/your-username/house-price-prediction)**  
   A regression model using Scikit-learn and SHAP to predict house prices.  
