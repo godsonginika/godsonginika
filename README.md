@@ -62,11 +62,11 @@
 
 </hr>
 
-## 🚀 Projects
-<h2 align="center">
-  <img src="https://i.imgur.com/UO6ZaaZ.gif" width="40px" />
-  Projects
-</h2>
+
+<h1 align="center">
+   Projects
+  <img src="https://i.imgur.com/V2Gdteo.gif" width="40px" />
+</h1>
 
 
 
