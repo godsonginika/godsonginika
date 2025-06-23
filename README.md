@@ -63,11 +63,11 @@
 </hr>
 
 ## 🚀 Projects
-
 <h2 align="center">
-  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="30px" />
+  <img src="https://github.com/posi-olomo/posi-olomo/blob/main/assets/rocket.gif?raw=true" width="40px" />
   Projects
 </h2>
+
 
 
 
