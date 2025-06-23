@@ -56,7 +56,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/BCpZPFT.mp4" width="500" height="290">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="500" height="290">
 </p>
 
 
