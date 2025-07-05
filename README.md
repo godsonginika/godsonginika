@@ -8,19 +8,13 @@
 </p>
 
 <hr/>
-<table>
-  <tr>
-    <td>
-      <pre>
-        👦🏻 I'm a Machine Learning Engineer and a C# .Net Developer<br>
-        💯 Exploring advanced ML techniques and Deep Learning<br>
-        🚀 Passionate about solving real-world problems with data<br>
-        🔥 Open to collaborations on ML & C# .NET projects<br>
-        ⚡ Fun fact: I’m a future CEO 😎
-      </pre>
-    </td>
-  </tr>
-</table>
+<pre>
+    👦🏻 I'm a Machine Learning Engineer and a C# .Net Developer<br>
+    💯 Exploring advanced ML techniques and Deep Learning<br>
+    🚀 Passionate about solving real-world problems with data<br>
+    🔥 Open to collaborations on ML & C# .NET projects<br>
+    ⚡ Fun fact: I’m a future CEO 😎
+</pre>
 
 
 
