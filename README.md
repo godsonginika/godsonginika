@@ -109,11 +109,30 @@
     <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
   </p>
 
-  - **[TO-DO LIst Tracker API](https://github.com/godsonginika/ASP.NET-Web-API/tree/main/Simple%20Expense%20Tracker%20API)**  
+- **[TO-DO LIst Tracker API](https://github.com/godsonginika/ASP.NET-Web-API/tree/main/Simple%20Expense%20Tracker%20API)**  
   A RESTful API designed to help users manage tasks efficiently. It supports creating, updating, organizing, and prioritizing to-do items, with features for setting deadlines, marking task status, and filtering by category or completion. 
   <p>
     <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
     <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white"/>
     <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
   </p>
+
+<h2 align="center">
+   Certificates 📜
+</h2>
+<p align="center">
+  I've completed several professional courses and training programs.
+  Here are the available certificates<br>
+  <a href="https://drive.google.com/drive/folders/1O4h68VxSt95-wZnp1peXE9Ld8207_hjt?usp=drive_link" target="_blank">
+    <img src="https://img.shields.io/badge/View_on-Google_Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" />
+  </a>
+</p>
+
+<h2 align="center">📫 Connect with Me</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/godsonginika" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
