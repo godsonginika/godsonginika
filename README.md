@@ -11,9 +11,6 @@
 <table>
   <tr>
     <td>
-      <img src="https://imgur.com/0f2lvTY.gif">
-    </td>
-    <td>
       <pre>
         👦🏻 I'm a Machine Learning Engineer and a C# .Net Developer<br>
         💯 Exploring advanced ML techniques and Deep Learning<br>
