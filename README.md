@@ -11,7 +11,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://i.imgur.com/0f2lvTY.gif">
+      <img src="https://imgur.com/0f2lvTY.gif">
     </td>
     <td>
       <pre>
